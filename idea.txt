@@ -1,0 +1,1 @@
+    A CLI tool to analyze financial markets and covid data from Twitter using Twitter API  and use the generated CSV file to visualize the data using Matplotlib.
